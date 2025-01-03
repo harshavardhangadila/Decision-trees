@@ -150,4 +150,3 @@ Sensitive to small variations in data (can produce different trees).
 
 Frequently used in credit scoring, medical decision-making, and customer segmentation.
 
-Youtube: [Decision Trees](https://www.youtube.com/playlist?list=PL3wbQO71NfYg3I8XMNKeZsTj3gba47nId)
